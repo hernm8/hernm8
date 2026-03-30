@@ -2,7 +2,7 @@
 
 Business & Data Professional | Bridging Strategy, Analytics & Technology
 
-👋 Hey, I’m Mike Hernandez With 10+ years in sales and leadership, I’ve built a strong foundation in business operations, now complemented by technical expertise in business analytics. I specialize in turning data into actionable insights to drive smarter decision-making.
+👋 Hey, I’m Michael E. Hernandez With 10+ years in sales and leadership, I’ve built a strong foundation in business operations, now complemented by technical expertise in business analytics. I specialize in turning data into actionable insights to drive smarter decision-making.
 
 🔹 Technical Expertise
 
