@@ -23,8 +23,7 @@ Business & Data Professional | Bridging Strategy, Analytics & Technology
 
 🚀 Let’s Connect!
 
-📌 LinkedIn - https://www.linkedin.com/in/michael-hernandez8/
-
+📌 LinkedIn - https://www.linkedin.com/in/michael-e-hernandez1/
 📧 Email: mikehernndez01@gmail.com
 
 ⚡ Fun Fact: My first experience with data came from an R Studio economics class, and it sparked my passion for data analytics & engineering!
